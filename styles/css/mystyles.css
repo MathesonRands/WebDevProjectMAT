@@ -1,0 +1,59 @@
+.mybody{
+    background-color:rgba(157, 204, 229, 0.295)
+}
+
+.mylayout{position: absolute;
+        background-color: rgb(228, 228, 228);
+        border: solid 3px rgb(124, 124, 124);        
+}
+
+.myheader{
+    top: 5px;
+    left: 70px;
+    right: 100px;
+    height:100px;
+    border-bottom: solid; border-color:rgba(105, 10, 10, 0.856) 10px;
+    background-color:rgb(228, 228, 228);
+}
+
+.myleftmenu{
+    top: 5px; 
+    left: 5px; 
+    width: 60px;
+    bottom: 64px;
+  
+}
+
+.myrightmenu{
+    right: 5px;
+    top: 108px;
+    bottom:64px;
+    left: 71px;
+        
+
+
+}
+
+.myfooter{
+    bottom: 5px;
+    height: 26px;
+    right: 5px;
+    left:5px;
+}
+
+.myimagefix{
+    position: relative;
+    top: 10px;
+    display: block;
+    margin: 0 auto;
+}
+
+.mycenter{margin: 0 auto;}
+
+.mywhite{
+   background-color: rgba(128, 128, 128, 0.212); text-decoration-color: whitesmoke;
+}
+
+.mytext{font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; font-size: medium;}
+
+.myborder{border-style:solid; border-color: grey 10px;border-style:solid; border-color: rgb(99, 8, 8) 1px;padding: auto;}

@@ -1,0 +1,23 @@
+
+.TabBody{ 
+    font-size: 14px; font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(248, 230, 197);
+}
+
+.Taba{
+    color:rgb(160, 52, 160); 
+    background-color: white; 
+}
+
+
+.Taba:hover{
+    text-decoration: underline; color:rgb(0, 255, 255);
+}
+
+.Taba:visited{
+    color: rgb(201, 34, 201);
+}
+
+.Tabhometext{color: rgb(216, 216, 216);}
+
+
